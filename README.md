@@ -1,1 +1,1 @@
-this repository contains solution to the shell basics task
+this is the solution to shell permission
